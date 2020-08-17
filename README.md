@@ -8,7 +8,7 @@ Splash | Home | Despesas | Receitas | Lançamentos
 
 * Fragments
 * Persistência de dados com a biblioteca Room
-* Implementação da camada Rempository
+* Implementação da camada Repository
 * Criação de gráficos interativos com a biblioteca AnyChart
 * BottomNavigation
 * RecyclerView
